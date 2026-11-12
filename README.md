@@ -34,7 +34,7 @@ Dentro de la carpeta de tu proyecto:
 ```bash
 flutter pub add app_ui_kit \
   --git-url=https://github.com/JustJaas/app_ui_kit.git \
-  --git-ref=v0.1.0
+  --git-ref=v1.0.0
 ```
 
 ### Opción 2: editando el `pubspec.yaml`
@@ -49,7 +49,7 @@ dependencies:
   app_ui_kit:
     git:
       url: https://github.com/JustJaas/app_ui_kit.git
-      ref: v0.1.0   # etiqueta de la versión que quieres usar
+      ref: v1.0.0  
 ```
 
 Luego descarga el paquete:
