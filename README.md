@@ -4,6 +4,10 @@ Sistema de diseño para **Flutter**: tokens (colores, espaciados, radios, tipogr
 componentes reutilizables organizados con **Atomic Design**. Incluye una app **showcase** donde se ve cada componente
 funcionando con todas sus variantes.
 
+## Ejemplo
+
+https://github.com/user-attachments/assets/599d0594-17de-4e3e-b7b7-31103866e7d6
+
 ## Ejecutar y probar
 
 ```bash
@@ -11,8 +15,8 @@ git clone https://github.com/JustJaas/app_ui_kit.git
 cd app_ui_kit
 
 dart pub get
-dart analyze        # análisis estático (debe terminar sin avisos)
-dart test           # pruebas automáticas; no necesitan internet
+dart analyze        
+dart test           
 ```
 
 ## Instalación
